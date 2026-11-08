@@ -2,8 +2,8 @@
 
 | Information | Details |
 | :--- | :--- |
-| Student Name | [ENTER YOUR FULL NAME HERE] |
-| Student Registration Number | [ENTER YOUR REGISTRATION NUMBER HERE] |
+| Student Name | MOGALIPURI CHATISH KULDEEP |
+| Student Registration Number | 252U1R5102 |
 | Class & Section | 313 AI DE 2B |
 | Study Level | UG |
 | Year & Term | 2 & 2 |
